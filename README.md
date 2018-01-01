@@ -11,9 +11,10 @@ Features
 
 Usage Instructions  
 ----------  
-Set P1.3 low to stop anything   
-Set P1.4 high to control the car moving  
-Set P1.5 high & P1.4 low to play music with its wheels  
+Connect P1.3 P1.4 P1.5 to buttoms which give low level when pressed  
+Press P1.3 buttom to start/stop anything  
+Press P1.4 buttom to start/stop moving  
+Press P1.5 buttom to start/stop playing music(must stop moving first)  
 
 
 Physical Display  
