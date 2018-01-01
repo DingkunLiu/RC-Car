@@ -18,13 +18,11 @@ Set P1.5 high & P1.4 low to play music with its wheels
 
 Physical Display  
 ----------  
-Car  
------
+<font size=7>**Car**  
 ![alt](Img/img2.png) 
 
 
-Remote Control Unit  
------
+<font size=7>**Remote Control Unit**  
 ![alt](Img/img1.png)  
 
 
@@ -51,12 +49,10 @@ Driver Board Design
 
 Pin Configuration  
 ----------
-Driver Board Controller  
------
+<font size=7>**Driver Board Controlle**  
 ![alt](Img/DriverControl-Pin.png)  
 
-Control Unit Controller (MPU6050)  
------
+<font size=7>**Control Unit Controller (MPU6050)**  
 ![alt](Img/MPU-Pin.png)  
 
 
