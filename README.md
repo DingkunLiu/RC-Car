@@ -1,28 +1,35 @@
-<font size=7>**Motion sensing RC car**  
-<font size=4>A motion sensing RC car based on acceleration sensor and MSP430 micro-controller  
+Motion sensing RC car
+=====================
+A motion sensing RC car based on acceleration sensor and MSP430 micro-controller  
 
 
-<font size=6>**Features**  
+Features  
+----------  
 **1. Motion sensing RC car**: Turn the acceleration sensor to control the direction of the car  
 **2. Music playing**: Play simple music with two independent motor  
 
 
-<font size=6>**Usage Instructions**  
+Usage Instructions  
+----------  
 Set P1.3 low to stop anything   
 Set P1.4 high to control the car moving  
 Set P1.5 high & P1.4 low to play music with its wheels  
 
 
-<font size=6>**Physical Display**  
-**Car**  
+Physical Display  
+----------  
+Car  
+-----
 ![alt](Img/img2.png) 
 
 
-**Remote Control Unit**  
+Remote Control Unit  
+-----
 ![alt](Img/img1.png)  
 
 
-<font size=6>**Hardware Requirement**  
+Hardware Requirement  
+----------
 1. Car with 2 wheel and 1 universal wheel  
 2. MSP430G2553 development board * 2  
 3. HC-05 Bluetooth module *2 (one master one slave)  
@@ -32,19 +39,24 @@ Set P1.5 high & P1.4 low to play music with its wheels
 7. Power supply  
 
 
-<font size=6>**System Design**  
+System Design  
+----------
 ![alt](Img/Diagram.png)  
 
 
-<font size=6>**Driver Board Design**  
+Driver Board Design  
+----------
 ![alt](Img/MotorDriverBoard.png)  
 
 
-<font size=6>**Pin Configuration**  
+Pin Configuration  
+----------
 Driver Board Controller  
+-----
 ![alt](Img/DriverControl-Pin.png)  
 
-Control Unit Controller  
+Control Unit Controller (MPU6050)  
+-----
 ![alt](Img/MPU-Pin.png)  
 
 
