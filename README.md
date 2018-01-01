@@ -48,11 +48,14 @@ Driver Board Design
 
 
 Pin Configuration  
-----------
+----------  
+HC-05 connected to UART P1.1 & P1.2  
+
 <font size=7>**Driver Board Controlle**  
 ![alt](Img/DriverControl-Pin.png)  
 
 <font size=7>**Control Unit Controller (MPU6050)**  
+P1.3 & P1.4 & P1.5 set as control logic input  
 ![alt](Img/MPU-Pin.png)  
 
 
