@@ -7,8 +7,8 @@ typedef unsigned short u16;
 //P1.6 P1.7 IIC PORT
 //P1.1 P1.2 USART PORT
 //P1.3 P1.4 mode choose key PORT
-//MPU6050 AD0 �ӵ�
-//P2.1 P2.2 LED MODE INDICATION
+//MPU6050 AD0 ½ÓµØ
+//P2.1 P2.2 LED MODE INDICATOR
 //USART Baud rate 9600
 //refresh rate 10Hz
 
